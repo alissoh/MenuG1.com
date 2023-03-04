@@ -1,0 +1,219 @@
+span{
+    margin: 0px;
+    padding: 0px;
+}
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Arial,Helvetica, sans-serif;
+    text-align: center;
+    font-size: 16px;
+    width:1471px;
+    margin: 0 auto;
+   
+
+}
+
+#conteiner{
+    background: #f3f3f3;
+}
+
+#topo{
+    margin: 0 auto;
+    padding: 0 12px;
+   height: 44px;
+    width: 1336px;
+    
+    
+    
+}
+
+
+ #conteiner, ul li {
+    list-style: none;
+  
+ 
+  
+}
+#topo .lista-1 li a {
+        list-style: none;
+       font-weight: bold;
+    padding: 10px 5px 12px;
+    text-decoration: none;
+    float: left;
+
+
+}
+
+#topo .lista-1 .v1 a{
+    color: #0669DE;
+}
+#topo .lista-1 .v2 a{
+     color: #A80000;
+}
+#topo .lista-1 .v3 a{
+   color: #06AA48;
+}
+#topo .lista-1 .v4 a{
+    color: #FF7F00;
+}
+#topo .lista-1 .v5 a{
+    color: #005CEF;
+}
+/****barramento*****/
+#topo .lista-1 .v1 .n1{
+    color: #ccc;
+    font-size: 12px;
+
+   
+}
+#topo .lista-1 .v2 .n2{
+    list-style: none;
+    color: #ccc;
+    font-size: 12px;
+    margin-left: 0px;
+   
+}
+
+#topo .lista-1 .v3 .n3{
+    color: #ccc;
+    font-size: 12px;
+    margin-left: 0;
+   
+}
+#topo .lista-1 .v4 .n4{
+    color: #ccc;
+    font-size: 12px;
+    margin-left: 0;
+   
+}
+#topo .lista-1 .v1 .n1{
+    color: #ccc;
+    font-size: 12px;
+    margin-left: 0;
+   
+}
+#topo .lista-1 .v2 a:hover{
+
+    border-top: solid 1.5px  #A80000;
+}
+#topo .lista-1 .v3 a:hover{
+    border-top: solid 1.5px  #06AA48;
+}
+#topo .lista-1 .v4 a:hover{
+    border-top: solid 1.5px  #FF7F00;
+}
+#topo .lista-1 .v5 a:hover{
+    border-top: solid 1.5px  #005CEF;
+}
+#topo .lista-1 .v1 a:hover{
+    color:  #4592f0;
+} /****fim lista-1****/
+
+#topo .lista-2 li a{
+   
+    height: 28px;
+    text-decoration: none;
+    float: right;
+ 
+}
+#topo ul.lista-2 li.f1 a{
+    color: #999999;
+    font-size: 12px;
+    padding: 15px 12px 13px 4px;
+}
+#topo ul.lista-2 li.f1 button.f2{
+    
+    border: solid 1px #ccc;
+    margin: -15px 0 0px 0;
+    border-radius: 03px;
+    text-align: center;
+    color: #646060;
+    width: 63px;
+    height: 20px;
+    font-size: 11.5px;
+}
+#topo ul.lista-2 li.f1 a:hover{
+    font-weight: bold;
+    color: #4592f0;
+}
+#topo ul.lista-2 li.f1 a button:hover{
+    color: #4592f0;
+    background: white;
+}
+#topo ul.lista-2 li.f1 a button{
+    background: #f3f3f3;
+}
+/***fim topo****/
+
+#conteiner #NN .AA{
+    background: #c4170c;
+   height: 74px;
+ 
+}
+
+
+
+#conteiner #NN .AA ul li {
+    float: left;
+   
+}
+#conteiner #NN .AA ul li.x1 button{
+    font-weight: bold;
+    font-family:  helvetica, arial;
+    background: #c4170c;
+    border: none;
+    color: #ffff;
+    padding-left: 20px;
+    font-size: 14px;
+    width: 42.09px;
+    height: 74px;
+    margin: 0 0 0 27px;
+
+}
+#conteiner #NN .AA ul li.x2{
+ 
+   margin:    2px 0 0px  600px;
+}
+#conteiner #NN .AA ul li.x3{
+    background: #9b180f;
+    margin: 20px 0 0 450px; 
+   
+}
+#conteiner #NN .AA ul li.x3 {
+    margin-top: auto;
+}
+#conteiner #NN .AA ul li.x3 input{
+    width: 164px;
+    height: 33px;
+    text-align: center;
+    border:none;
+  
+   
+     
+    
+}
+#conteiner #NN .AA ul li.x3 input.foto{
+    background: url(../img/lupa-branca-png-3-lulu.png)  no-repeat;
+background-position: 20px 6px;
+}
+::-webkit-input-placeholder { 
+    color: #ffff;
+    font-weight: bold;
+  }
+
+ 
+
+
+
+
+
+
+
+
+
+
+
